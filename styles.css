@@ -273,6 +273,7 @@ section[role="main"] ul li img, section[role="complementary"] ul li img {
     position: absolute;
     right: 0;
     top: 0;
+    max-width: 90%;
   }
 
 section[role="main"] ul li h4 {
