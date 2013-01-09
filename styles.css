@@ -317,7 +317,7 @@ header ul li {float: left; margin-right: 1em;}
 
 /* project main image */
 .project figure {margin-bottom: 2em;}
-.project figure img {border: 1px solid #f6f6f6; width: 98%;}
+.project figure img {border: 1px solid #f6f6f6; max-width: 98%;}
 figcaption {color: #888; margin-top: 0.5em;}
 
 section[role="complementary"] {float: left; width: 630px; margin-right: 45px;}
