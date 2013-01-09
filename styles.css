@@ -218,13 +218,6 @@ header h1 a img {
 
 header h1 a span {position: absolute; top: 22px; left: 70px;}
 
-header h1 a:hover img {
-  -webkit-transform: rotate(360deg);
-    -moz-transform: rotate(360deg);
-    -o-transform: rotate(360deg);
-  }
-
-
 /* Main content
 ----------------------------------------------------------------*/
 
@@ -380,6 +373,10 @@ section[role="complementary"] ul li a {}
 .single article section {margin: 0; position: relative;}
 .single article aside {margin: 0;}
 body.single section[role="main"] li, body.single li a {margin: 0; width: auto; height: auto; float: none; display: block; background-color: transparent;}
+
+h4 a, h4 a:active, h4 a:visited {color: #000;}
+h4 a:hover {color: #888;}
+section[role="main"] ul li p { color: #777;}
 
 /* Footer
 ----------------------------------------------------------------*/
