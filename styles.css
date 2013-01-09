@@ -351,6 +351,14 @@ section[role="complementary"] ul li a {}
   padding-top: 1em;
   }
 
+.meta {
+  color: #888;
+}
+
+.meta img {
+  vertical-align: middle;
+}
+
 .project aside dl {margin: 1em 0; overflow: hidden; color: #888;}
 
 .project aside dl dt {font-weight: bold; float: left; margin-right: 5px;}
@@ -364,7 +372,8 @@ section[role="complementary"] ul li a {}
 
 .project aside ul li a {padding-left: 20px;}
 
-.project aside ul li a.link {background: url(images/icons.png) no-repeat 0 1px;}
+.link { background: url(images/icons.png) no-repeat 0 1px; padding-left: 20px; }
+
 .project aside ul li a.twitter {background: url(images/icons.png) no-repeat 0 -18px;}
 .project aside ul li a.facebook {background: url(images/icons.png) no-repeat 0 -38px;}
 
