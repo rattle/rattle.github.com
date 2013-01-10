@@ -249,6 +249,8 @@ section[role="main"] ul li, section[role="complementary"] ul li {
     margin: 0 45px 45px 0;
     overflow: hidden;
     position: relative;
+    width: 180px;
+
   }
 
 section[role="main"] ul a, section[role="complementary"] ul li a, section[role="complementary"] ul li span {
